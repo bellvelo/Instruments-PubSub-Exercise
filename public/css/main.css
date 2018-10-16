@@ -1,0 +1,13 @@
+h1, h3, h4 {
+  font-family: verdana;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+#selected {
+  margin: 10px;
+  padding: 5px;
+  border: 3px solid grey;
+}
